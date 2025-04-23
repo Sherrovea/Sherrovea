@@ -1,6 +1,6 @@
 # Olá, eu sou a Sherida! 👋
 
-🎓 **Formação**: Engenharia de Software com ênfase em Qualidade de Software  
+🎓 **Formada** em Engenharia de Software com ênfase em Qualidade de Software  
 🔭 **Atualmente** trabalho com **Quality Assurance**  
 🌱 **Estudando** desenvolvimento em **Python**  
 📫 **Contate-me**: [sheridacr@hotmail.com](mailto:sheridacr@hotmail.com)  
