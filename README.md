@@ -8,7 +8,7 @@
 
 ---
 
-Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos na área de desenvolvimento, com foco especial em testes e automações com Python.  
+Aqui você vai encontrar alguns dos meus projetos, estudos e experimentos na área de desenvolvimento, com foco especial em testes e automações com Python e JavaScript.  
 Estou sempre buscando aprender coisas novas e compartilhar conhecimento!
 
 ---
